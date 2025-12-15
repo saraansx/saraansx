@@ -6,9 +6,8 @@
 <!-- TEXT SECTION -->
 <br>
 
-<!-- HEADING WITH CUSTOM UNDERLINE -->
-<!-- The 'border-bottom' creates the colored line under the text -->
-<span style="font-size: 35px; font-weight: bold; color: white; border-bottom: 4px solid #ff9e80;">
+<!-- HEADING WITH WHITE UNDERLINE -->
+<span style="font-size: 35px; font-weight: bold; color: white; border-bottom: 4px solid white;">
   hi, i'm saraansx. ✦
 </span>
 

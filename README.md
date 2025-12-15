@@ -4,10 +4,15 @@
 </a>
 
 <!-- TEXT SECTION -->
-<b><font size="6">hi, i'm saraansx. ✦</font></b>
+<br>
 
-<!-- THE DASH: Matches the image color and fades out -->
-<div style="width: 100%; height: 1px; background: linear-gradient(to right, #ff9e80, transparent); margin-top: 10px; margin-bottom: 20px; opacity: 0.6;"></div>
+<!-- HEADING WITH CUSTOM UNDERLINE -->
+<!-- The 'border-bottom' creates the colored line under the text -->
+<span style="font-size: 35px; font-weight: bold; color: white; border-bottom: 4px solid #ff9e80;">
+  hi, i'm saraansx. ✦
+</span>
+
+<br><br>
 
 > *developer & ui enthusiast*
 
@@ -25,7 +30,7 @@ currently building minimal things for the web. i love turning complex problems i
 
 <br><br>
 
-<!-- ICONS SECTION (Fixed: Changed to WHITE so they are visible) -->
+<!-- ICONS SECTION (White Icons) -->
 <p align="left">
 <a href="https://github.com/saraansx"><img src="https://cdn.simpleicons.org/github/white" width="26" height="26" alt="github" /></a>&nbsp;&nbsp;<a href="https://x.com/saraans_"><img src="https://cdn.simpleicons.org/x/white" width="26" height="26" alt="x" /></a>&nbsp;&nbsp;<a href="https://www.instagram.com/saraan._.s/"><img src="https://cdn.simpleicons.org/instagram/white" width="26" height="26" alt="instagram" /></a>
 </p>

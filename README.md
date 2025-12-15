@@ -1,6 +1,6 @@
 <!-- IMAGE SECTION (Floats Right) -->
 <a href="https://github.com/saraansx">
-  <img src="IMG-20251213-WA0004.jpg" align="right" width="230" style="border-radius: 20px;" alt="Profile" />
+  <img src="IMG-20251213-WA0004.jpg" align="right" width="230" style="border-radius: 20px;" alt="227893158" />
 </a>
 
 <!-- TEXT SECTION -->

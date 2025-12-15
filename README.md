@@ -3,9 +3,6 @@
   <img src="227893158.jpg" align="right" width="250" style="border-radius: 20px; box-shadow: 0px 0px 25px rgba(255, 158, 128, 0.5); margin-left: 20px;" alt="saraansx aesthetic profile" />
 </a>
 
-<!-- SPACER -->
-<br>
-
 <!-- HEADER: Bold with White Underline & Sparkles -->
 <span style="font-size: 35px; font-weight: bold; color: white; border-bottom: 4px solid white; padding-bottom: 5px;">
   hi, i'm saraansx. ⋆ ˚ ｡ ✦

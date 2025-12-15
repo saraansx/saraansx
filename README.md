@@ -4,27 +4,27 @@
 </a>
 
 <!-- TEXT SECTION -->
-<!-- Removed top <br> so it aligns better with image -->
+<!-- Header with extra sparkles -->
 <span style="font-size: 35px; font-weight: bold; color: white; border-bottom: 4px solid white;">
-  hi, i'm saraansx. ✦
+  hi, i'm saraansx. ⋆ ˚ ｡ ✦
 </span>
 
-<!-- Removed <br><br> here to reduce space -->
 <br>
 
-> *developer & ui enthusiast*
+<!-- Subtitle: Removed the grey bar (>) for a cleaner look -->
+<p style="color: #9E9E9E; font-style: italic; margin-top: 10px;">
+  ☁️ &nbsp; developer & ui enthusiast
+</p>
+
+currently building <b>minimal things</b> for the web. i love turning complex problems into simple, beautiful interface designs.
 
 <br>
 
-currently building minimal things for the web. i love turning complex problems into simple, beautiful interface designs.
-
-<br>
-
-<b>✿ current focus</b>
-<br>
-&nbsp; › &nbsp; working on <b>something aesthetic</b><br>
-&nbsp; › &nbsp; learning <b>new technologies</b><br>
-&nbsp; › &nbsp; listening to <b>lo-fi beats</b>
+<!-- Focus Section: Added color to the arrows -->
+<h3 style="margin-bottom: 5px;">✿ current focus</h3>
+<span style="color: #ff9e80;">›</span> &nbsp; working on <b>something aesthetic</b><br>
+<span style="color: #ff9e80;">›</span> &nbsp; learning <b>new technologies</b><br>
+<span style="color: #ff9e80;">›</span> &nbsp; listening to <b>lo-fi beats</b>
 
 <br><br>
 

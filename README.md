@@ -6,8 +6,8 @@
 <!-- TEXT SECTION -->
 <br>
 
-<!-- HEADING WITH WHITE UNDERLINE -->
-<span style="font-size: 35px; font-weight: bold; color: white; border-bottom: 4px solid white;">
+<!-- HEADING WITH GRADIENT -->
+<span style="font-size: 42px; font-weight: bold; background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">
   hi, i'm saraansx. ✦
 </span>
 
@@ -17,21 +17,21 @@
 
 <br>
 
-currently building minimal things for the web. i love turning complex problems into simple, beautiful interface designs.
+turning caffeine into code. my commits are cleaner than my desktop.
 
 <br>
 
 <b>✿ current focus</b>
+
+&nbsp;›&nbsp; vibing with <b>code & coffee</b><br>
+&nbsp;›&nbsp; exploring <b>creative tech</b><br>
+&nbsp;›&nbsp; late nights <b>& chill playlists</b>
+
 <br>
-&nbsp; › &nbsp; working on <b>something aesthetic</b><br>
-&nbsp; › &nbsp; learning <b>new technologies</b><br>
-&nbsp; › &nbsp; listening to <b>lo-fi beats</b>
 
-<br><br>
-
-<!-- ICONS SECTION (White Icons) -->
+<!-- AESTHETIC ICONS -->
 <p align="left">
-<a href="https://github.com/saraansx"><img src="https://cdn.simpleicons.org/github/white" width="26" height="26" alt="github" /></a>&nbsp;&nbsp;<a href="https://x.com/saraans_"><img src="https://cdn.simpleicons.org/x/white" width="26" height="26" alt="x" /></a>&nbsp;&nbsp;<a href="https://www.instagram.com/saraan._.s/"><img src="https://cdn.simpleicons.org/instagram/white" width="26" height="26" alt="instagram" /></a>
+<a href="https://github.com/saraansx"><img src="https://cdn.simpleicons.org/github/667eea" width="32" height="32" alt="github" /></a>&nbsp;&nbsp;<a href="https://x.com/saraans_"><img src="https://cdn.simpleicons.org/x/764ba2" width="32" height="32" alt="x" /></a>&nbsp;&nbsp;<a href="https://www.instagram.com/saraan._.s/"><img src="https://cdn.simpleicons.org/instagram/667eea" width="32" height="32" alt="instagram" /></a>
 </p>
 
 <br clear="all">

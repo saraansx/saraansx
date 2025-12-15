@@ -24,22 +24,26 @@ currently building minimal things for the web. i love turning complex problems i
 
 <br><br>
 
-<!-- ICONS SECTION -->
+<!-- AESTHETIC ICONS SECTION -->
 <p align="left">
-  <!-- Github -->
-  <a href="https://github.com/saraansx">
-    <img src="https://img.shields.io/badge/GitHub-171515?style=flat-square&logo=github&logoColor=white" />
-  </a>
   
-  <!-- Twitter / X -->
-  <a href="https://x.com/saraans_">
-    <img src="https://img.shields.io/badge/X-%23000000.svg?style=flat-square&logo=X&logoColor=white" />
+  <!-- GitHub Icon -->
+  <a href="https://github.com/saraansx" style="text-decoration: none;">
+    <img src="https://cdn.simpleicons.org/github/black" width="28" height="28" alt="github" />
   </a>
+  &nbsp;&nbsp;
   
-  <!-- Instagram -->
-  <a href="https://www.instagram.com/saraan._.s/">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat-square&logo=Instagram&logoColor=white" />
+  <!-- X (Twitter) Icon -->
+  <a href="https://x.com/saraans_" style="text-decoration: none;">
+    <img src="https://cdn.simpleicons.org/x/black" width="28" height="28" alt="x" />
   </a>
+  &nbsp;&nbsp;
+  
+  <!-- Instagram Icon -->
+  <a href="https://www.instagram.com/saraan._.s/" style="text-decoration: none;">
+    <img src="https://cdn.simpleicons.org/instagram/black" width="28" height="28" alt="instagram" />
+  </a>
+
 </p>
 
 <br clear="all">

@@ -18,13 +18,13 @@ currently building minimal things for the web. i love turning complex problems i
 
 <b>✿ current focus</b>
 <br>
-🔭 working on **something aesthetic** <br>
-🌱 learning **new technologies** <br>
-🎧 listening to **lo-fi beats**
+<code>🔭 working on something aesthetic</code><br>
+<code>🌱 learning new technologies</code><br>
+<code>🎧 listening to lo-fi beats</code>
 
 <br><br>
 
-<!-- ICONS SECTION (Code smashed together to remove blue lines) -->
+<!-- ICONS SECTION -->
 <p align="left">
 <a href="https://github.com/saraansx"><img src="https://cdn.simpleicons.org/github/black" width="30" height="30" alt="github" /></a>&nbsp;&nbsp;<a href="https://x.com/saraans_"><img src="https://cdn.simpleicons.org/x/black" width="30" height="30" alt="x" /></a>&nbsp;&nbsp;<a href="https://www.instagram.com/saraan._.s/"><img src="https://cdn.simpleicons.org/instagram/black" width="30" height="30" alt="instagram" /></a>
 </p>

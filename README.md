@@ -13,7 +13,7 @@
 
 <!-- Subtitle: Removed the grey bar (>) for a cleaner look -->
 <p style="color: #9E9E9E; font-style: italic; margin-top: 10px;">
-  ☁️ &nbsp; developer & ui enthusiast
+ > ☁️ &nbsp; developer & ui enthusiast
 </p>
 
 currently building <b>minimal things</b> for the web. i love turning complex problems into simple, beautiful interface designs.

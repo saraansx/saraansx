@@ -4,14 +4,13 @@
 </a>
 
 <!-- TEXT SECTION -->
-<br>
-
-<!-- HEADING WITH WHITE UNDERLINE -->
+<!-- Removed top <br> so it aligns better with image -->
 <span style="font-size: 35px; font-weight: bold; color: white; border-bottom: 4px solid white;">
   hi, i'm saraansx. ✦
 </span>
 
-<br><br>
+<!-- Removed <br><br> here to reduce space -->
+<br>
 
 > *developer & ui enthusiast*
 
@@ -29,7 +28,7 @@ currently building minimal things for the web. i love turning complex problems i
 
 <br><br>
 
-<!-- ICONS SECTION (White Icons) -->
+<!-- ICONS SECTION -->
 <p align="left">
 <a href="https://github.com/saraansx"><img src="https://cdn.simpleicons.org/github/white" width="26" height="26" alt="github" /></a>&nbsp;&nbsp;<a href="https://x.com/saraans_"><img src="https://cdn.simpleicons.org/x/white" width="26" height="26" alt="x" /></a>&nbsp;&nbsp;<a href="https://www.instagram.com/saraan._.s/"><img src="https://cdn.simpleicons.org/instagram/white" width="26" height="26" alt="instagram" /></a>
 </p>

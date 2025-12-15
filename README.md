@@ -6,7 +6,8 @@
 <!-- TEXT SECTION -->
 <b><font size="6">hi, i'm saraansx. ✦</font></b>
 
-<br><br>
+<!-- THE DASH: Matches the image color and fades out -->
+<div style="width: 100%; height: 1px; background: linear-gradient(to right, #ff9e80, transparent); margin-top: 10px; margin-bottom: 20px; opacity: 0.6;"></div>
 
 > *developer & ui enthusiast*
 
@@ -24,9 +25,9 @@ currently building minimal things for the web. i love turning complex problems i
 
 <br><br>
 
-<!-- ICONS SECTION -->
+<!-- ICONS SECTION (Fixed: Changed to WHITE so they are visible) -->
 <p align="left">
-<a href="https://github.com/saraansx"><img src="https://cdn.simpleicons.org/github/black" width="30" height="30" alt="github" /></a>&nbsp;&nbsp;<a href="https://x.com/saraans_"><img src="https://cdn.simpleicons.org/x/black" width="30" height="30" alt="x" /></a>&nbsp;&nbsp;<a href="https://www.instagram.com/saraan._.s/"><img src="https://cdn.simpleicons.org/instagram/black" width="30" height="30" alt="instagram" /></a>
+<a href="https://github.com/saraansx"><img src="https://cdn.simpleicons.org/github/white" width="26" height="26" alt="github" /></a>&nbsp;&nbsp;<a href="https://x.com/saraans_"><img src="https://cdn.simpleicons.org/x/white" width="26" height="26" alt="x" /></a>&nbsp;&nbsp;<a href="https://www.instagram.com/saraan._.s/"><img src="https://cdn.simpleicons.org/instagram/white" width="26" height="26" alt="instagram" /></a>
 </p>
 
 <br clear="all">

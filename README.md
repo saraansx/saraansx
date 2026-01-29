@@ -1,6 +1,6 @@
 <!-- IMAGE SECTION -->
 <a href="https://github.com/saraansx">
-  <img src="227893158.jpg" align="right" width="250" style="border-radius: 20px; box-shadow: 0px 0px 20px rgba(255, 158, 128, 0.4);" alt="saraansx" />
+  <img src="download (4).jpg" align="right" width="250" style="border-radius: 20px; box-shadow: 0px 0px 20px rgba(255, 158, 128, 0.4);" alt="saraansx" />
 </a>
 
 <!-- TEXT SECTION -->

@@ -1,6 +1,6 @@
 <!-- IMAGE SECTION -->
 <a href="https://github.com/saraansx">
-  <img src="9d940cbb8a5d1a52fc1198fb9211c91f.png" align="right" width="250" style="border-radius: 20px; box-shadow: 0px 0px 20px rgba(255, 158, 128, 0.4);" alt="saraansx" />
+  <img src="Changli.jpg" align="right" width="250" style="border-radius: 20px; box-shadow: 0px 0px 20px rgba(255, 158, 128, 0.4);" alt="saraansx" />
 </a>
 
 <!-- TEXT SECTION -->

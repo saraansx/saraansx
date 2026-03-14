@@ -7,7 +7,7 @@
 <br>
 
 <span style="font-size: 32px; font-weight: bold; background: linear-gradient(135deg, #a78bfa 0%, #f472b6 100%); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">
-  hi, i'm ryu . ✦
+  hi, i'm Saraans . ✦
 </span>
 
 <br>

@@ -27,8 +27,8 @@
       </span>
     </td>
     <td width="50%" valign="top" align="center">
-      <a href="https://discord.com/users/1359166435598930070" target="_blank">
-        <img src="https://lanyard.cnrad.dev/api/1359166435598930070?theme=dark&bg=282A36&borderRadius=12px&animated=true" width="280" alt="discord presence" />
+      <a href="https://discord.com/users/200770268778463233" target="_blank">
+        <img src="https://lanyard.cnrad.dev/api/200770268778463233?theme=dark&bg=282A36&borderRadius=12px&animated=true" width="280" alt="discord presence" />
       </a>
     </td>
   </tr>

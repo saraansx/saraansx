@@ -1,8 +1,6 @@
-<a href="https://github.com/saraansx">
-  <img src="gg.jpg" align="right" width="180" style="border-radius: 15px; box-shadow: 0px 0px 15px rgba(167, 139, 250, 0.4);" alt="saraansx" />
-</a>
-
-<br>
+<table>
+<tr>
+<td width="70%" valign="top">
 
 <h1 align="left">
   <span style="font-size: 32px; font-weight: bold; background: linear-gradient(135deg, #a78bfa 0%, #f472b6 100%); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">
@@ -15,6 +13,18 @@
 </blockquote>
 
 <p style="font-size: 14px;">I drink coffee to code, but instead of perfect code, I often end up creating bugs .</p>
+
+</td>
+
+<td width="30%" align="center">
+
+<a href="https://github.com/saraansx">
+  <img src="gg.jpg" width="180" style="border-radius: 15px; box-shadow: 0px 0px 15px rgba(167, 139, 250, 0.4);" alt="saraansx" />
+</a>
+
+</td>
+</tr>
+</table>
 
 <table border="0" cellpadding="0" cellspacing="0" width="100%">
   <tr>
@@ -39,6 +49,7 @@
 <span style="font-size: 20px; font-weight: bold; background: linear-gradient(135deg, #a78bfa 0%, #f472b6 100%); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">
   ✧ statistics
 </span>
+
 <br><br>
 
 <table border="0" cellpadding="0" cellspacing="0" width="100%">
